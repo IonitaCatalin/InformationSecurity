@@ -1,4 +1,4 @@
-# InformatioSecurity_Homework_1
+# IS-HW1
 
 General usage
   For this program to work we will need all the python file .py running node_A.py node_B.py key_manage.py
